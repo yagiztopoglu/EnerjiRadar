@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/
+data/*.db
+data/uci/*.zip
+data/uci/*.txt
+results/*
+!results/.gitkeep
+data/external/*
+!data/external/.gitkeep
