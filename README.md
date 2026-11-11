@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/61fae235-2f97-4e08-8f9f-35b99bad7062
+
 # EnerjiRadar
 
 **Saatlik elektrik tüketimi tahmini, tahmin aralığı kalibrasyonu ve "beklenenden fazla tüketim" tespiti.**
